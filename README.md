@@ -42,7 +42,3 @@ Enter ID: 101
 
 ## Requirements
 - Java 8 or later
-
-## License
-This project is free to use and modify.
-
